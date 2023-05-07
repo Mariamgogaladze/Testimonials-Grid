@@ -8,7 +8,7 @@ This is Testimonials grid section, built using HTML and CSS. The page includes r
 
 ## demo
 
-You can try out the live demo of the multi-step form
+You can try out the live demo of the Testimonials grid section here :  https://mariamgogaladze.github.io/Testimonials-Grid/
 
 # Installation
 
